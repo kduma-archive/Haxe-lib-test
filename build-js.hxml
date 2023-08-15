@@ -1,0 +1,6 @@
+-cp src
+
+KDuma.BarLib
+
+-lib hxtsdgen
+-js bin/js/lib.js

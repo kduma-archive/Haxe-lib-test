@@ -1,0 +1,5 @@
+-cp src
+
+KDuma.BarLib
+
+-java bin/java/

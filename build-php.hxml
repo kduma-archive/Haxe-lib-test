@@ -1,0 +1,5 @@
+-cp src
+
+KDuma.BarLib
+
+-php bin/php

@@ -1,0 +1,5 @@
+-cp src
+
+KDuma.BarLib
+
+-python bin/python/lib.py
